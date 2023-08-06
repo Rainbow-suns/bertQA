@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Training and Testing
 
 ## bert-base-uncased:
@@ -77,3 +78,6 @@ model = RobertaForQuestionAnswering.from_pretrained(model_name_or_path, config=c
 ## Added files: util_squad2.py - Using roberta model.
 Consistent with the original code, the reason for creating it is that the input type embedding is added to the squad.py.
 
+=======
+# bertQA
+>>>>>>> 8149ce8d3d1f77b321a2201c07e20a12dfe9a38f
